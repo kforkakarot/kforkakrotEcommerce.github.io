@@ -1,9 +1,9 @@
-package com.youtube.jwt.service;
+package com.youtube.ecommerce.service;
 
-import com.youtube.jwt.dao.RoleDao;
-import com.youtube.jwt.dao.UserDao;
-import com.youtube.jwt.entity.Role;
-import com.youtube.jwt.entity.User;
+import com.youtube.ecommerce.dao.RoleDao;
+import com.youtube.ecommerce.dao.UserDao;
+import com.youtube.ecommerce.entity.Role;
+import com.youtube.ecommerce.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
