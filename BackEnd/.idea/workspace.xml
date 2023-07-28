@@ -6,6 +6,65 @@
   <component name="ChangeListManager">
     <list default="true" id="20779819-ee48-42dd-b25e-22e6cbae6eeb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/animations.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/animations.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/browser/browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/browser/browser.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/browser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/browser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/a11y-module.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/a11y-module.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/aria-describer/aria-describer.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/aria-describer/aria-describer.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/focus-monitor/focus-monitor.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/focus-monitor/focus-monitor.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/focus-trap/configurable-focus-trap-factory.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/focus-trap/configurable-focus-trap-factory.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/focus-trap/focus-trap-manager.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/focus-trap/focus-trap-manager.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/focus-trap/focus-trap.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/focus-trap/focus-trap.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/high-contrast-mode/high-contrast-mode-detector.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/high-contrast-mode/high-contrast-mode-detector.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/interactivity-checker/interactivity-checker.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/interactivity-checker/interactivity-checker.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/live-announcer/live-announcer.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/live-announcer/live-announcer.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/a11y/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/bidi/bidi-module.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/bidi/bidi-module.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/bidi/dir.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/bidi/dir.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/bidi/directionality.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/bidi/directionality.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/bidi/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/bidi/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/bidi/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/bidi/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/keycodes/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/keycodes/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/keycodes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/keycodes/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/observers/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/observers/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/observers/observe-content.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/observers/observe-content.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/observers/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/observers/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/platform/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/platform/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/platform/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/platform/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/platform/platform-module.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/platform/platform-module.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/platform/platform.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/cdk/platform/platform.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/button/button-module.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/button/button-module.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/button/button.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/button/button.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/button/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/button/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/button/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/button/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/common-behaviors/common-module.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/common-behaviors/common-module.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/datetime/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/datetime/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/datetime/native-date-adapter.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/datetime/native-date-adapter.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/error/error-options.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/error/error-options.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/line/line.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/line/line.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/option/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/option/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/option/optgroup.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/option/optgroup.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/option/option.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/option/option.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/ripple/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/ripple/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/ripple/ripple.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/ripple/ripple.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/selection/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/selection/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/selection/pseudo-checkbox/pseudo-checkbox.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/core/selection/pseudo-checkbox/pseudo-checkbox.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/toolbar/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/toolbar/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/toolbar/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/toolbar/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/toolbar/toolbar-module.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/toolbar/toolbar-module.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/toolbar/toolbar.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/material/toolbar/toolbar.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/platform-browser/animations/animations.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/platform-browser/animations/animations.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/platform-browser/animations/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/platform-browser/animations/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/src/app/header/header.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/src/app/header/header.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/src/app/header/header.component.html" afterDir="false" />
+>>>>>>> f00b2fde6672b0b8140217e097ff0f54dde5f108
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +121,11 @@
       <workItem from="1687973916760" duration="34000" />
       <workItem from="1690009350406" duration="589000" />
       <workItem from="1690041235641" duration="1953000" />
+<<<<<<< HEAD
       <workItem from="1690103094296" duration="669000" />
+=======
+      <workItem from="1690103094296" duration="65000" />
+>>>>>>> f00b2fde6672b0b8140217e097ff0f54dde5f108
     </task>
     <servers />
   </component>
