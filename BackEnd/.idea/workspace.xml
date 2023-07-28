@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="20779819-ee48-42dd-b25e-22e6cbae6eeb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
       <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/animations.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/animations.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/browser/browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/browser/browser.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/browser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/node_modules/@angular/animations/browser/package.json" afterDir="false" />
@@ -62,6 +64,7 @@
       <change beforePath="$PROJECT_DIR$/../FrontEnd/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FrontEnd/src/app/header/header.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/src/app/header/header.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FrontEnd/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/src/app/header/header.component.html" afterDir="false" />
+>>>>>>> f00b2fde6672b0b8140217e097ff0f54dde5f108
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +121,11 @@
       <workItem from="1687973916760" duration="34000" />
       <workItem from="1690009350406" duration="589000" />
       <workItem from="1690041235641" duration="1953000" />
+<<<<<<< HEAD
+      <workItem from="1690103094296" duration="669000" />
+=======
       <workItem from="1690103094296" duration="65000" />
+>>>>>>> f00b2fde6672b0b8140217e097ff0f54dde5f108
     </task>
     <servers />
   </component>
